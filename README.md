@@ -1,8 +1,6 @@
 # Electronic-Voting-Machine-using-LPC2148
 Password-Protected Electronic Voting Machine using LPC2148 ARM7 with LCD, Keypad, Push Buttons, LEDs, Keil µVision and Proteus Simulation.
 
-# Electronic Voting Machine using LPC2148
-
 ## Overview
 
 The **Electronic Voting Machine (EVM) using LPC2148** is an embedded systems project designed to demonstrate a secure and user-friendly electronic voting process using the ARM7-based LPC2148 microcontroller. The project integrates password-based voter authentication, candidate selection through push buttons, real-time vote confirmation using LEDs, and result display on a 16×2 LCD. The objective of the system is to ensure that only authorized users can cast their vote while maintaining the principle of **one person, one vote**.
@@ -151,8 +149,5 @@ Through this project, the following concepts were explored and implemented:
 
 ## Author
 **Trishala K**
-Department of Electronics and Communication Engineering
-Amrita Vishwa Vidyapeetam, Bengaluru Campus
-
 B.Tech Electronics and Computer Engineering  
 Amrita Vishwa Vidyapeetham, Bengaluru
