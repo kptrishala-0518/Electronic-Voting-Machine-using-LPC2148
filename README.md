@@ -149,5 +149,6 @@ Through this project, the following concepts were explored and implemented:
 
 ## Author
 **Trishala K**
+
 B.Tech Electronics and Computer Engineering  
 Amrita Vishwa Vidyapeetham, Bengaluru
