@@ -99,13 +99,20 @@ The voting process continues until either all registered voters have voted or th
 ```
 Electronic-Voting-Machine-LPC2148
 │
-├── Source_Code/
-├── Keil_Project/
-├── Hex_File/
-├── Proteus/
-├── Documentation/
+├── Source_Code/        → Embedded C source code
+├── Keil_Project/       → Keil µVision project files
+├── Hex_File/           → Compiled HEX file
+├── Proteus/            → Proteus simulation files
+├── Documentation/      → Project report 
 └── README.md
 ```
+## How to Run
+
+1. Open the Keil µVision project located in the Keil_Project folder.
+2. Build the project to generate the HEX file.
+3. Open the Proteus project from the Proteus folder.
+4. Double-click the LPC2148 microcontroller in Proteus and browse to the generated HEX file from the Hex_File folder.
+5. Run the simulation to interact with the LCD, keypad, push buttons, and LEDs.
 
 ---
 
